@@ -22,7 +22,7 @@ title: Games For Ants
 repository: Games-For-Ants/Games-For-Ants.github.io
 
 # Build settings
-theme: jekyll-theme-Cayman
+theme: jekyll-theme-Hacker
 
 plugins:
 - jekyll-feed
